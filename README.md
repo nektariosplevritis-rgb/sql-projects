@@ -3,3 +3,8 @@ SQL projects and queries for financial data analysis | Transactions, risk metric
 
 #skills
 SELECT, COUNT, DISTINCT,LIMIT, INSERT, UPDATE, DELETE
+
+#projects
+https://sqliteonline.com/
+
+
